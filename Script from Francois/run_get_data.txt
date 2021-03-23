@@ -1,0 +1,1 @@
+nohup python get_cryptofacilities_file.py > cryptofacilities.log &
